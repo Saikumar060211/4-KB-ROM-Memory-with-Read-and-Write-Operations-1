@@ -122,6 +122,8 @@ endmodule
 OUTPUT
 ![Screenshot (33)](https://github.com/user-attachments/assets/35bc7fe0-62e9-4d73-8cff-97e5c225aa90)
 
+
+
 # RAM-Memory-with-Read-and-Write-Operations
 
 ## Aim 
@@ -235,6 +237,8 @@ endmodule
 ```
 OUTPUT
 ![Screenshot (32)](https://github.com/user-attachments/assets/8d97aec7-210c-4f39-9994-ab96ddb040c9)
+
+
 
 # FIRST IN FIRST OUT [FIFO]
 
