@@ -129,7 +129,8 @@ OUTPUT
 ## Aim 
 To design and simulate a RAM memory with read and write operations using Verilog HDL and verify the functionality through a testbench in the Vivado 2023.1 simulation environment.
 
-## Apparatus Required Vivado 2023.1 or equivalent Verilog simulation tool. Computer system with a suitable operating system. 
+## Apparatus Required 
+Vivado 2023.1 or equivalent Verilog simulation tool. Computer system with a suitable operating system. 
 
 ## Procedure 
 
@@ -245,7 +246,8 @@ OUTPUT
 ## Aim 
 To design and simulate FIFO using Verilog HDL and verify the functionality through a testbench in the Vivado 2023.1 simulation environment.
 
-## Apparatus Required Vivado 2023.1 or equivalent Verilog simulation tool. Computer system with a suitable operating system. 
+## Apparatus Required 
+Vivado 2023.1 or equivalent Verilog simulation tool. Computer system with a suitable operating system. 
 
 ## Procedure 
 
